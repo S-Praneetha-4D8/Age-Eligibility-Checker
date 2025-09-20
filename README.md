@@ -1,2 +1,5 @@
-# Age-Eligibility-Checker
-A basic Python program that checks if a person is eligible based on their age.
+age=int(input())
+if(age>=18):
+    print('Eligible')
+else:
+    print('Not Eligible')
